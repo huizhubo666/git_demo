@@ -1,4 +1,10 @@
 str1 = tangseng
 str2 = wukong
 str3 = bajie
-str4 = wujing
+
+
+def index()
+	xxxxx
+xxxxx
+1234124
+12432421
