@@ -8,3 +8,4 @@ xxxxx
 1234124
 12432421
 
+str4 = safdsfa
